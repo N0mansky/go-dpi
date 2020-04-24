@@ -5,6 +5,7 @@ import (
 	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket/layers"
 	"github.com/pkg/errors"
+	"go-dpi/types"
 	"io"
 	"io/ioutil"
 	"net/http"
