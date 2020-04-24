@@ -9,8 +9,8 @@ import (
 	"unsafe"
 
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/types"
 	"github.com/pkg/errors"
+	"go-dpi/types"
 )
 
 // ndpiCodeToProtocol maps the nDPI protocol codes to go-dpi protocols.

@@ -3,8 +3,8 @@
 package wrappers
 
 import (
-	"github.com/mushorg/go-dpi/types"
 	"github.com/pkg/errors"
+	"go-dpi/types"
 	"strconv"
 )
 
