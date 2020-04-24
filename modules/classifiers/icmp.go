@@ -1,9 +1,9 @@
 package classifiers
 
 import (
+	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
 )
 
 // ICMPClassifier struct

@@ -2,11 +2,11 @@
 package godpi
 
 import (
+	"github.com/N0mansky/go-dpi/modules/classifiers"
+	"github.com/N0mansky/go-dpi/modules/ml"
+	"github.com/N0mansky/go-dpi/modules/wrappers"
+	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/modules/classifiers"
-	"github.com/mushorg/go-dpi/modules/ml"
-	"github.com/mushorg/go-dpi/modules/wrappers"
-	"github.com/mushorg/go-dpi/types"
 	"time"
 )
 

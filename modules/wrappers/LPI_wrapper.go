@@ -10,7 +10,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/mushorg/go-dpi/types"
+	"github.com/N0mansky/go-dpi/types"
 )
 
 // lpiCodeToProtocol maps the LPI protocol codes to go-dpi protocols.

@@ -8,8 +8,8 @@ import "C"
 import (
 	"unsafe"
 
+	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket"
-	"github.com/mushorg/go-dpi/types"
 	"github.com/pkg/errors"
 )
 

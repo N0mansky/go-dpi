@@ -7,11 +7,11 @@ import (
 	"os/signal"
 	"time"
 
+	"github.com/N0mansky/go-dpi"
+	"github.com/N0mansky/go-dpi/types"
+	"github.com/N0mansky/go-dpi/utils"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/pcap"
-	"github.com/mushorg/go-dpi"
-	"github.com/mushorg/go-dpi/types"
-	"github.com/mushorg/go-dpi/utils"
 )
 
 func main() {

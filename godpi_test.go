@@ -1,8 +1,8 @@
 package godpi
 
 import (
-	"github.com/mushorg/go-dpi/types"
-	"github.com/mushorg/go-dpi/utils"
+	"github.com/N0mansky/go-dpi/types"
+	"github.com/N0mansky/go-dpi/utils"
 	"io/ioutil"
 	"path"
 	"testing"

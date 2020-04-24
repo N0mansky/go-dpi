@@ -2,8 +2,8 @@
 package ml
 
 import (
+	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
 	"github.com/pkg/errors"
 	"io"
 	"io/ioutil"

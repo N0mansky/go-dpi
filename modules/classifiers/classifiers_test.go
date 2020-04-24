@@ -3,10 +3,10 @@ package classifiers
 import (
 	"testing"
 
+	"github.com/N0mansky/go-dpi/types"
+	"github.com/N0mansky/go-dpi/utils"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
-	"github.com/mushorg/go-dpi/utils"
 	"strings"
 )
 

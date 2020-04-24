@@ -2,8 +2,8 @@ package ml
 
 import (
 	"encoding/binary"
-	"github.com/mushorg/go-dpi/types"
-	"github.com/mushorg/go-dpi/utils"
+	"github.com/N0mansky/go-dpi/types"
+	"github.com/N0mansky/go-dpi/utils"
 	"os"
 	"testing"
 )
