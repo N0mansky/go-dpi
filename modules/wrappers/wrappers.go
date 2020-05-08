@@ -48,7 +48,7 @@ func NewWrapperModule() *WrapperModule {
 	module := &WrapperModule{}
 	module.activeWrappers = make([]Wrapper, 0)
 	module.wrapperList = []Wrapper{
-		NewLPIWrapper(),
+		//NewLPIWrapper(),
 		NewNDPIWrapper(),
 	}
 	return module
