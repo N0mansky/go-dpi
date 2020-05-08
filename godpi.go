@@ -3,7 +3,6 @@ package godpi
 
 import (
 	"github.com/N0mansky/go-dpi/modules/classifiers"
-	"github.com/N0mansky/go-dpi/modules/ml"
 	"github.com/N0mansky/go-dpi/modules/wrappers"
 	"github.com/N0mansky/go-dpi/types"
 	"github.com/google/gopacket"
@@ -14,7 +13,7 @@ var activatedModules []types.Module
 var moduleList = []types.Module{
 	classifiers.NewClassifierModule(),
 	wrappers.NewWrapperModule(),
-	ml.NewLinearSVCModule(),
+	//ml.NewLinearSVCModule(),
 }
 var cacheExpiration = 5 * time.Minute
 
